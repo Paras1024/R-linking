@@ -1,0 +1,1 @@
+print('Second commit to check if it works properly')
